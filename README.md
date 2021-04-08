@@ -1,6 +1,6 @@
 ## About me:
 
-Hi, my name is **Aleksey**. I am a **Frontend developer**. In order not to waste your time, I will briefly describe here what **I can do**.
+Hi, my name is **_Aleksey_**. I am a **Frontend developer**. In order not to waste your time, I will briefly describe here what **I can do**.
 
 ## Connect with me:
 
