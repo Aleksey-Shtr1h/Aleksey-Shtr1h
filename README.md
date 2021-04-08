@@ -4,5 +4,5 @@ Hi, my name is **Aleksey**. I am a **Frontend developer**. In order not to waste
 
 ## Connect with me:
 
-[<img align="left" alt="https://vk.com/shtr1h | vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+<a href="https://vk.com/shtr1h"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg"></a>&nbsp;&nbsp;
 
