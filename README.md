@@ -6,7 +6,7 @@ Hi, my name is **_Aleksey_**. I am a **Frontend developer**. In order not to was
 
 <br />
 
-<a href="https://t.me/Aleksey_Shtr1h"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"></a>&nbsp;&nbsp;
+<a href="https://t.me/Aleksey_Shtr1h"><img height="30" width="30" src="https://github.com/Aleksey-Shtr1h/Aleksey-Shtr1h/blob/main/telegram.svg"></a>&nbsp;&nbsp;
 <a href="https://vk.com/shtr1h"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg"></a>&nbsp;&nbsp;
 <a href="mailto:shtr1hkot2@gmail.com
 "><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"></a>&nbsp;&nbsp;
