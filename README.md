@@ -18,6 +18,8 @@ Hi, my name is **_Aleksey_**. I am a **Frontend developer**. In order not to was
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />&nbsp; - &nbsp;React ( <a href="https://github.com/Aleksey-Shtr1h/web-chat">Example</a> )
 
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" />&nbsp; - &nbsp;Styled-Components ( <a href="https://github.com/Aleksey-Shtr1h/web-chat">Example</a> )
+
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />&nbsp; - &nbsp;Webpack ( <a href="https://github.com/Aleksey-Shtr1h/webpack-react-template">Example</a> )
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />&nbsp; - &nbsp;Git
